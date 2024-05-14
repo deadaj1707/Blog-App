@@ -1,5 +1,5 @@
 # Blog API
-This FastAPI-based API provides basic CRUD functionality for managing blog posts with Mongodb in backend.
+This FastAPI-based API provides basic CRUD functionality for managing blog posts with Mongodb in backend and Bootstrap.js in frontend.
 
 # Features
 Create: Add new blog posts.
