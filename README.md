@@ -51,3 +51,9 @@ Liking a Blog Post: Send a POST request to /like/{id} to increment the like coun
 # Additional Notes
 Ensure that MongoDB is running locally or update the database connection settings in config/db.py.
 The API utilizes Jinja2 templates for server-side rendering of HTML pages. HTML templates are located in the templates directory.
+
+![Screenshot 2024-05-15 005112](https://github.com/deadaj1707/Blog-App/assets/95641989/feb91bed-002e-4e80-94a3-04163721d8d3)
+
+![Screenshot 2024-05-15 005132](https://github.com/deadaj1707/Blog-App/assets/95641989/10678dc1-a64c-4160-8c03-589a3d5bfa4c)
+
+
